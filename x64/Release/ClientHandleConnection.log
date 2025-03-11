@@ -1,0 +1,10 @@
+﻿  ClientHandleConnection.cpp
+C:\Users\Hamdy\source\repos\ClientHandleConnection\ClientHandleConnection\ClientHandleConnection.cpp(17,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Hamdy\source\repos\ClientHandleConnection\ClientHandleConnection\ClientHandleConnection.cpp(104,35): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\Hamdy\source\repos\ClientHandleConnection\ClientHandleConnection\ClientHandleConnection.cpp(131,7): warning C4101: 'filepath': unreferenced local variable
+  Generating code
+  1 of 17 functions ( 5.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ClientHandleConnection.vcxproj -> C:\Users\Hamdy\source\repos\ClientHandleConnection\x64\Release\ClientHandleConnection.exe
