@@ -23,9 +23,9 @@
 
 Have u ever though of a packets ? then what about a packet file transmmiter !
 as the title says this project allows u to convert a certain file into bytes then transfering them to a server where u should convert this bytes back to a bin file or whatever u are trying to send 
-this project contains a simple trick to bypass the packet-loss thing ,in otherwords , it continously tring to send the every byte till the file full read and boom u got ur file shared from a client to ur server
-
+this project contains a simple trick to bypass the packet-loss thing ,in otherwords , it continously tring to send the every byte till the file fully read and boom u got ur file shared from a client to ur server
+**You will need to code ur server**
 ## 💻 Built Using <a name = "tech"></a>
 * ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- [ImGui]()
+
 
